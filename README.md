@@ -48,4 +48,3 @@ Translation files are here:
 https://github.com/pi-apps/pi-explorer/tree/master/src/languages
 
 Submit pull requests with new languages or languages fixes if you like.
-
